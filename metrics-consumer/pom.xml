@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>t1.holding</groupId>
-	<artifactId>kafka-monitoring</artifactId>
+	<artifactId>metrics-consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>kafka-monitoring</name>
+	<name>metrics-consumer</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
